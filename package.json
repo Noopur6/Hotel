@@ -1,0 +1,39 @@
+{
+  "name": "hotel",
+  "version": "1.0.0",
+  "description": "hotel management",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "express": "^4.16.4",
+    "express-jwt": "^5.3.1",
+    "express-validator": "^5.3.1",
+    "jsonwebtoken": "^8.5.0",
+    "mongoose": "^5.4.16",
+    "nodemailer": "^5.1.1",
+    "nodemon": "^1.18.10",
+    "passport": "^0.4.0",
+    "passport-jwt": "^4.0.0",
+    "passport-local": "^1.0.0"
+	},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Noopur6/Hotel.git"
+  },
+  "keywords": [
+    "book",
+    "hotel",
+    "room"
+  ],
+  "author": "NoopurSingh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Noopur6/Hotel/issues"
+  },
+  "homepage": "https://github.com/Noopur6/Hotel#readme"
+}
